@@ -112,3 +112,12 @@
 ![Untitled](/Transformer/Attention%20is%20all%20you%20need%20Review/Untitled%2012.png)
 
 ![Untitled](/Transformer/Attention%20is%20all%20you%20need%20Review/Untitled%2013.png)
+
+
+# Reference :
+- 나동빈님의 Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)  
+ : https://www.youtube.com/watch?v=AA621UofTUA
+- 나동빈님의 코드리뷰  
+ : https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb
+- 허민석님의 트랜스포머 (어텐션 이즈 올 유 니드)  
+ : https://www.youtube.com/watch?v=mxGCEWOxfe8&t=369s
