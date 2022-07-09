@@ -26,7 +26,7 @@
     - 저자
      : Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin 
 
-
+[Transformer 논문 리뷰자 : 엄태현](https://github.com/eomtaehyeon/Deep_Machine_Learning_Paper_Study/blob/main/Transformer/Attention%20is%20all%20you%20need%20Review.md)
 
 **- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
 
